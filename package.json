@@ -1,0 +1,24 @@
+{
+  "name": "advent-2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisNSki/advent-2024.git"
+  },
+  "keywords": [
+    "Advent",
+    "Code",
+    "2024"
+  ],
+  "author": "Chris Narowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisNSki/advent-2024/issues"
+  },
+  "homepage": "https://github.com/ChrisNSki/advent-2024#readme"
+}
